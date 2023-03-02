@@ -1,5 +1,5 @@
 var yela_sprite = 'data:image/gif;base64,R0lGODlhDgAUAPMAAAAAAC0tLTs8MGJeP0A/QEpJStZcGIGCd6SeZ7CpboyNgbW1teXFs+XYs+/iuwAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQJDQAAACwAAAAADgAUAAAEZxDIueqaGNiddW1OeGWfE5idB4ZOWjpM6y5NnQJBQOxEnumFoMEQDGB0umEhYDBOmMBi89gkFpq9Y0+JdUpqOl7AhhkgEmj0IGNWtxPrSTs+Lw/ukjteIjgoFAJ8fweBAAKHh3yIgREAIfkECQ0AAAAsAAAAAA4AFAAABGMQyElrXXhZmbvNjSNq1xIGTrBhoeispsi8cGNvQBAQPKFXu4LQYBCqJsECUVg4SnaGANMIJESHTuQOZc0+dSKfU0AeIBJo9GAiUJjVg/dAAGjLJfGB4kA+5CltCnRkG2R0ABEAOw==';
-var audio = new Audio('https://cdn.jsdelivr.net/gh/Tashiro64/yela-konami@v1.0.0/audio_yela.mp3');
+var audio = new Audio('https://cdn.jsdelivr.net/gh/Tashiro64/yela-konami@v1.0.2/audio_yela.mp3');
 
 setInterval(function(){
 	if(Math.floor(Math.random() * 7) == 1){
